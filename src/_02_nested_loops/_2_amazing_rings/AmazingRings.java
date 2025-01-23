@@ -49,12 +49,13 @@ public class AmazingRings extends PApplet {
 
     @Override
     public void setup() {
-
+size();
+    	noFill();
     }
 
     @Override
     public void draw() {
-
+for()
     }
 
     static public void main(String[] args) {
