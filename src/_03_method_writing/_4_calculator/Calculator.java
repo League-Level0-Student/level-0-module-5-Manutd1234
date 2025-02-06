@@ -16,6 +16,13 @@ public class Calculator {
 		// 3) Call the correct method depending on what option the user chooses
 		
 		// 4) Call the result() method and put the answer in a pop-up
+	result();
+	 JOptionPane.showMessageDialog(null, result + " ");
+	}
+
+	private static void result() {
+		// TODO Auto-generated method stub
+		
 	}
 	
 	// 1) Make 4 static methods (add, subtract, multiply, divide)
